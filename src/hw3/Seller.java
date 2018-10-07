@@ -5,6 +5,8 @@ import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Random;
 
+//test by jerry
+
 public abstract class Seller implements Runnable
 {
     public Queue<Customer> customerQueue;
