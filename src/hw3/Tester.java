@@ -6,6 +6,8 @@ public class Tester
 {
     public static void main(String[] args)
     {
+    	
+    		// test comment
 
         // number of customers per seller per hour -- command line argument
         int numOfCustomers = 0;
