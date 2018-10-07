@@ -36,7 +36,9 @@ public abstract class Seller implements Runnable
     {
 
         time = (int) (currentTime + serviceTime); //+ elapse_time;
-        //System.out.println("----------------" + customer.getArrivalTime() + "---sid: " + this.sellerID + "service: " +this.serviceTime);
+        System.out.println("Arrival time: " + customer.getArrivalTime() + "min");
+        System.out.println("Seller ID: " + this.sellerID);
+        System.out.println("Time after arrival to be served: " + this.serviceTime + "min");
         customer.setTime(time);
     }
 
@@ -84,7 +86,7 @@ public abstract class Seller implements Runnable
         else time = hour + ":" + min;
         if (seat == null) System.out.println(time + "  " + sellerID + " - Sorry, the concert is sold out!");
         else System.out.println(time + "  " + sellerID + " - Success! Your seat is " + seat.getSeatNumber());
-
+        
         printSeating(this.seating, 10, 10);
     }
 

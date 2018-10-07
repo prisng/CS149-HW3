@@ -94,7 +94,7 @@ public class Customer implements Comparable<Customer>
     public int customerID(){
         return this.customerID;
     }
-
+    
     /**
      * Compares arrival time of 2 customers
      */
