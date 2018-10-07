@@ -7,17 +7,13 @@ public class Tester
     public static void main(String[] args)
     {
 
-        // number of customers per seller per hour
-        // ask for input from user
+        // number of customers per seller per hour -- command line argument
         int numOfCustomers = 0;
-        Scanner userInput = new Scanner(System.in);
-        System.out.print("Please enter # of Customers per Seller: ");
-
-        if(userInput.hasNextInt())
-            numOfCustomers = userInput.nextInt();
-        else
-            System.out.print("Invalid input. Please enter an integer.\n");
-
+        
+        // This takes in the number of customer from the command line
+        // ex. java Tester.java 5
+        // make sure to change to args[0] before submission; I just manually put "5" for testing
+        numOfCustomers = Integer.parseInt("5");
         final Object lock = new Object();
 
         // create 2d array that represents the seating
