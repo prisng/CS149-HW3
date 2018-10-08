@@ -15,7 +15,7 @@ public class Tester
         // This takes in the number of customer from the command line
         // ex. java Tester.java 5
         // make sure to change to args[0] before submission; I just manually put "5" for testing
-        numOfCustomers = Integer.parseInt("10");
+        numOfCustomers = Integer.parseInt("5");
         final Object lock = new Object();
 
         // create 2d array that represents the seating

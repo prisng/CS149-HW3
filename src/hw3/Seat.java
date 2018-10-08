@@ -1,6 +1,7 @@
 package hw3;
 
-public class Seat {
+public class Seat
+{
 
     private int seatNumber;
     private Customer seatTaken;
@@ -46,7 +47,7 @@ public class Seat {
      * Getter method to access Customer assigned to this seat
      * @return seatTaken
      */
-    public Customer getCustomer() {
+    public Customer getCustomer(){
         return seatTaken;
     }
 }

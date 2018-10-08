@@ -12,16 +12,6 @@ public class Customer implements Comparable<Customer>
     private int time;
 
     /**
-     * Sets customer id and generates random arrival time for testing of this program
-     * @param int customerID
-     */
-    public Customer(int customerID) {
-        arrivalTime = random.nextInt(60);
-        this.customerID = customerID;
-        seatNum = -1;
-    }
-
-    /**
      * Getter method to access time
      * @return int time
      */
@@ -54,10 +44,20 @@ public class Customer implements Comparable<Customer>
     }
 
     /**
+     * Sets customer id and generates random arrival time for testing of this program
+     * @param int customerID
+     */
+    public Customer(int customerID){
+        arrivalTime = random.nextInt(60);
+        this.customerID = customerID;
+        seatNum = -1;
+    }
+
+    /**
      * Getter method to arrival time
      * @return int arrivalTime
      */
-    public int getArrivalTime() {
+    public int getArrivalTime(){
         return this.arrivalTime;
     }
     
@@ -65,15 +65,25 @@ public class Customer implements Comparable<Customer>
      * Setter method for seat number
      * @param int seatNum to set this.seatNum
      */
-    public void setSeatNum(int seatNum) {
+    public void setSeatNum(int seatNum){
         this.seatNum = seatNum;
     }
 
     /**
+     * Checks to see if a seat number is has been assigned to a customer
+     * @return false if seat number is not assigned, else true
+     */
+    public boolean isSigned()
+    {
+        if(seatNum== -1)  return false;
+        else return true;
+    }
+    
+    /**
      * Getter method to access seat number
      * @return int seatNum
      */
-    public int getSeatNum() {
+    public int getSeatNum(){
         return this.seatNum;
     }
 
@@ -81,7 +91,7 @@ public class Customer implements Comparable<Customer>
      * Getter method to access customer's id number
      * @return int customerID
      */
-    public int customerID() {
+    public int customerID(){
         return this.customerID;
     }
     
@@ -89,15 +99,13 @@ public class Customer implements Comparable<Customer>
      * Compares arrival time of 2 customers
      */
     @Override
-    public int compareTo(Customer customer) {
-        if (this.arrivalTime < customer.arrivalTime) {
-            return -1;	
-        }
-        else if (this.arrivalTime > customer.arrivalTime) {
-            return 1;	
-        }
-        else {
-            return 0;	
-        }
+    public int compareTo(Customer customer)
+    {
+        if(this.arrivalTime < customer.arrivalTime)
+            return -1;
+        else if(this.arrivalTime > customer.arrivalTime)
+            return 1;
+        else
+            return 0;
     }
 }

@@ -12,9 +12,6 @@ public class SellerL extends Seller
     }
 
     public void sell() {
-    	if (currentTime > 59) {
-    		return;
-    	}
         while (!customerQueue.isEmpty())
         {
             Customer customer;
