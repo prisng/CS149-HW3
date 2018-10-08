@@ -3,27 +3,32 @@ package hw3;
 public class SellerH extends Seller
 {
     private Object lock;
-    public SellerH(Seat[][] seat, String sellerID, Object lock)
-    {
+    public SellerH(Seat[][] seat, String sellerID, Object lock) {
         // Seller H takes 1 or 2 minutes to complete a ticket sale
         super(seat, randomVariable.nextInt(2) + 1, sellerID, lock, System.currentTimeMillis());
         this.lock = lock;
     }
 
     public void sell() {
+    	if (currentTime > 59) {
+    		return;
+    	}
         while (!customerQueue.isEmpty()) {
             //Object lock = new Object();
 
             Customer customer = null;
-            if (customerQueue.isEmpty())
-                return;
+            if (customerQueue.isEmpty()) {
+                return;	
+            }
             // Get customer in queue that is ready
             update();
 
-            if(currentTime <= 59)
-                customer = customerQueue.peek();
-            else
-                return;
+            if(currentTime <= 59) {
+                customer = customerQueue.peek();	
+            }
+            else {
+                return;	
+            }
             // Find seat for the customer
             // Case for Seller H
             Seat seat = null;

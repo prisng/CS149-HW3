@@ -11,6 +11,9 @@ public class SellerM extends Seller{
 
     public void sell()
     {
+    	if (currentTime > 59) {
+    		return;
+    	}
         while (!customerQueue.isEmpty())
         {
             //Object lock = new Object();
