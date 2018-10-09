@@ -1,5 +1,10 @@
+/**
+ * A class representing a concert seat
+ *
+ */
 public class Seat {
-    private int seatNumber;
+	
+    private int seatNum;
     private Customer seatTaken;
 
     /**
@@ -7,7 +12,7 @@ public class Seat {
      * @param int num	the seat number to be set
      */
     public Seat(int num) {
-        seatNumber = num;
+    	seatNum = num;
         seatTaken = null;
     }
 
@@ -35,7 +40,7 @@ public class Seat {
     /**
      * Getter for seat number
      */
-    public int getSeatNumber() {
-        return seatNumber;
+    public int getSeatNum() {
+        return seatNum;
     }
 }

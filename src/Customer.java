@@ -1,6 +1,7 @@
 import java.util.Random;
 
 public class Customer implements Comparable<Customer> {
+	
     Random random = new Random();	// random number generator for arrival time
     private int arrivalTime;		// time that the customer arrives
     private int customerID;

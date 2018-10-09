@@ -1,57 +1,49 @@
-public class SellerM extends Seller{
+/**
+ * A class representing a medium-priced ticket-seller
+ */
+public class SellerMed extends Seller {
     private Object lock;
 
-    public SellerM(Seat[][] seat, String sellerID, Object lock)
-    {
+    public SellerMed(Seat[][] seat, String sellerID, Object lock) {
+    	// medium-price tickets: 2, 3, 4 min to complete a sale
         super(seat, randomVariable.nextInt(3) + 2, sellerID, lock, System.currentTimeMillis());
         this.lock = lock;
     }
 
-    public void sell()
-    {
-        while (!customerQueue.isEmpty())
-        {
-            //Object lock = new Object();
+    public void sellTicket() {
+        while (!customerQueue.isEmpty()) {
             Customer customer;
-            if (customerQueue.isEmpty())
-                return;
-            // Get customer in queue that is ready
+            if (customerQueue.isEmpty()) {
+                return;	
+            }
 
 
             update(); // get the current time
-            if(currentTime <= 59)
-                customer = customerQueue.peek();
-            else
-                return;
+            if(currentTime <= 59) {
+                customer = customerQueue.peek();	
+            }
+            else {
+                return;	
+            }
 
-            // Find seat for the customer
-            // Case for Seller M
             boolean flag = true;
             int counter = 1;
 
             Seat seat = null;
 
-            //System.out.println(currentTime);
-
-            synchronized(lock)
-            {
+            synchronized(lock) {
                 update();
-                //System.out.println("got in");
                 if(currentTime  >= (customer.getArrivalTime()))
                 {
                     find_seat:
                     for(int i = 5; i >= 0 && i < seating.length;)
                     {
-                        for (int j = 0; j < seating[0].length; j++)
-                        {
-                            if (seating[i][j].isSeatEmpty())
-                            {
-                                // Assign seat to customer
-                                // Seat number = (Row x 10) + (Col + 1)
-                                int seatNum = (i*10)+j+1;
+                        for (int j = 0; j < seating[0].length; j++) {
+                            if (seating[i][j].isSeatEmpty()) {
+                                // seat assignment to customer
+                                int seatNum = (i * 10) + j + 1;	// (row x 10) + (col + 1)
                                 seat = new Seat(seatNum);
                                 super.assignSeat(customer, seat, i, j);
-                                //update();
                                 printMsg(customer, seat);
                                 customerQueue.remove();
                                 break find_seat;
@@ -71,12 +63,11 @@ public class SellerM extends Seller{
                     }
                 }
             }
-            if(seat != null){
+            if (seat != null) {
                 try {
                     Thread.sleep(serviceTime * 1000);
                     update();
-                } catch (InterruptedException e)
-                {
+                } catch (InterruptedException e) {
                     e.printStackTrace();
                 }
             }
@@ -85,5 +76,4 @@ public class SellerM extends Seller{
         }
     }
 
-
-}
+} // end of class SellerMed
