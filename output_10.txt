@@ -1,0 +1,1545 @@
+Customer arrival time: 0 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:03  Your seat is 51. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 0 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:06  Your seat is 91. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501       x       x       x       x       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 0 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:05  Your seat is 92. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101       x       x       x       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 1 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:06  Your seat is 93. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401       x       x       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 1 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:06  Your seat is 94. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201       x       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 2 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:07  Your seat is 95. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 2 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:04  Your seat is 52. Enjoy the concert!
+--------------------------------------------------------------------------------
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 3 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:04  Your seat is 1. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 3 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:06  Your seat is 53. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 6 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:07  Your seat is 2. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301       x       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 2 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:11  Your seat is 96. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 5 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:09  Your seat is 54. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202       x       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 7 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:12  Your seat is 97. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102       x       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 8 min
+Time it takes to be served: 7 min
+Seller ID: L6
+Time: 0:15  Your seat is 98. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601       x       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 8 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:14  Your seat is 99. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 9 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:10  Your seat is 3. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502       x 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 9 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:14  Your seat is 100. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 8 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:12  Your seat is 55. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 10 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:11  Your seat is 4. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 11 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:13  Your seat is 56. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 8 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:17  Your seat is 81. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103       x       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 9 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:20  Your seat is 82. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503       x       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 15 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:20  Your seat is 83. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403       x       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 15 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:20  Your seat is 84. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203       x       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 13 min
+Time it takes to be served: 7 min
+Seller ID: L6
+Time: 0:22  Your seat is 85. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 17 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:18  Your seat is 5. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602       x       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 17 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:22  Your seat is 86. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302       x       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 17 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:22  Your seat is 87. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104       x       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 18 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:25  Your seat is 88. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204       x       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 14 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:26  Your seat is 89. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 21 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:24  Your seat is 57. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504       x 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 22 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:27  Your seat is 90. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 22 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:26  Your seat is 58. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 18 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:27  Your seat is 71. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L303       x       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 23 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:28  Your seat is 72. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L303    L105       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 23 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:27  Your seat is 59. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L303    L105       x       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 19 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:30  Your seat is 73. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L303    L105    L205       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 26 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:28  Your seat is 60. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+      x       x       x       x       x       x       x       x       x       x 
+   L303    L105    L205       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 24 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:30  Your seat is 61. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202       x       x       x       x       x       x       x       x       x 
+   L303    L105    L205       x       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 18 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:32  Your seat is 74. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202       x       x       x       x       x       x       x       x       x 
+   L303    L105    L205    L505       x       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 25 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:32  Your seat is 75. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202       x       x       x       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 27 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:30  Your seat is 62. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107       x       x       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405       x       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 19 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:32  Your seat is 76. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107       x       x       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304       x       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 28 min
+Time it takes to be served: 7 min
+Seller ID: L6
+Time: 0:35  Your seat is 77. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107       x       x       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603       x       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 27 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:33  Your seat is 78. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107       x       x       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 30 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:32  Your seat is 63. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304       x       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 27 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:34  Your seat is 64. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106       x       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 30 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:35  Your seat is 79. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203       x       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 32 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:35  Your seat is 65. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206       x 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 21 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:37  Your seat is 80. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108       x       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 24 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:38  Your seat is 66. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506       x       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 33 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:38  Your seat is 67. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406       x       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 29 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:38  Your seat is 68. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 34 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:35  Your seat is 6. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107       x       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 29 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:38  Your seat is 69. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 35 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:36  Your seat is 7. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204       x 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 28 min
+Time it takes to be served: 7 min
+Seller ID: L6
+Time: 0:42  Your seat is 70. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 36 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:38  Your seat is 41. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305       x       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 37 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:42  Your seat is 42. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207       x       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 26 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:42  Your seat is 43. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306       x       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 30 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:42  Your seat is 44. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205       x       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 28 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:44  Your seat is 45. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507       x       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 39 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:42  Your seat is 46. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109       x       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 41 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:43  Your seat is 47. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306       x       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 40 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:47  Your seat is 48. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208       x       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 31 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:46  Your seat is 49. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206       x 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 28 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:47  Your seat is 50. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 44 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:49  Your seat is 31. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407       x       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 44 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:46  Your seat is 32. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307       x       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 30 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:50  Your seat is 33. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508       x       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 35 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:50  Your seat is 34. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207       x       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 47 min
+Time it takes to be served: 7 min
+Seller ID: L6
+Time: 0:54  Your seat is 35. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605       x       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 47 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:49  Your seat is 36. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308       x       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 29 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:52  Your seat is 37. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308       x       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 48 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 0:53  Your seat is 38. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 49 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:50  Your seat is 8. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108       x       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 48 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:54  Your seat is 39. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408       x 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 48 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:51  Your seat is 40. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 50 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 0:55  Your seat is 21. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L209       x       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 49 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:54  Your seat is 22. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208       x       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 32 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 0:56  Your seat is 23. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108       x       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 51 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:52  Your seat is 9. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509       x       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 51 min
+Time it takes to be served: 3 min
+Seller ID: M1
+Time: 0:54  Your seat is 24. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509    M110       x       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 38 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 0:57  Your seat is 25. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109       x 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509    M110    L309       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 54 min
+Time it takes to be served: 1 min
+Seller ID: H1
+Time: 0:55  Your seat is 10. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109    H110 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509    M110    L309       x       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 54 min
+Time it takes to be served: 2 min
+Seller ID: M3
+Time: 0:56  Your seat is 26. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109    H110 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509    M110    L309    M310       x       x       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 49 min
+Time it takes to be served: 7 min
+Seller ID: L6
+Time: 1:01  Seller ID: L6 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+Customer arrival time: 49 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 0:59  Your seat is 28. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109    H110 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509    M110    L309    M310    L606    L409       x       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 52 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 0:58  Your seat is 29. Enjoy the concert!
+--------------------------------------------------------------------------------
+   H101    H102    H103    H104    H105    H106    H107    H108    H109    H110 
+      x       x       x       x       x       x       x       x       x       x 
+   L209    M208    L509    M110    L309    M310    L606    L409    M209       x 
+   L407    M307    L508    M207    L605    M308    L308    L108    L408    M309 
+   M305    L207    L306    M205    L507    M109    M306    L208    M206    L307 
+   M101    M301    M102    M103    M104    M302    M105    M201    M106    M303 
+   M202    M107    M304    M203    M108    L506    L406    L107    M204    L604 
+   L303    L105    L205    L505    L405    L304    L603    L106    L206    L305 
+   L103    L503    L403    L203    L602    L302    L104    L204    L504    L404 
+   L501    L101    L401    L201    L301    L202    L102    L601    L502    L402 
+--------------------------------------------------------------------------------
+
+Customer arrival time: 52 min
+Time it takes to be served: 5 min
+Seller ID: L2
+Time: 1:00  Seller ID: L2 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+Customer arrival time: 40 min
+Time it takes to be served: 6 min
+Seller ID: L5
+Time: 1:02  Seller ID: L5 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+Customer arrival time: 57 min
+Time it takes to be served: 5 min
+Seller ID: L1
+Time: 1:02  Seller ID: L1 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+Customer arrival time: 45 min
+Time it takes to be served: 5 min
+Seller ID: L3
+Time: 1:02  Seller ID: L3 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+Customer arrival time: 59 min
+Time it takes to be served: 4 min
+Seller ID: M2
+Time: 1:03  Seller ID: M2 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+Customer arrival time: 53 min
+Time it takes to be served: 5 min
+Seller ID: L4
+Time: 1:04  Seller ID: L4 - Sorry, The tickets aren't available anymore!
+--------------------------------------------------------------------------------
+
+
+
+Total number of tickets sold: 95
+Number of customers turned away: 7
+Number of H tickets sold: 10
+Number of M tickets sold: 30
+Number of L tickets sold: 55
