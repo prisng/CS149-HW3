@@ -1,5 +1,3 @@
-package hw3;
-
 public class SellerM extends Seller{
     private Object lock;
 

@@ -1,46 +1,46 @@
-package hw3;
-
-public class SellerL extends Seller
+public class SellerH extends Seller
 {
-
     private Object lock;
-    public SellerL(Seat[][] seat, String sellerID, Object lock)
+    public SellerH(Seat[][] seat, String sellerID, Object lock)
     {
-        super(seat, randomVariable.nextInt(4) + 4, sellerID, lock, System.currentTimeMillis());
+        // Seller H takes 1 or 2 minutes to complete a ticket sale
+        super(seat, randomVariable.nextInt(2) + 1, sellerID, lock, System.currentTimeMillis());
         this.lock = lock;
-
     }
 
     public void sell() {
-        while (!customerQueue.isEmpty())
-        {
-            Customer customer;
-            if (customerQueue.isEmpty()) return;
+        while (!customerQueue.isEmpty()) {
+            //Object lock = new Object();
+
+            Customer customer = null;
+            if (customerQueue.isEmpty())
+                return;
             // Get customer in queue that is ready
             update();
+
             if(currentTime <= 59)
                 customer = customerQueue.peek();
             else
                 return;
-
             // Find seat for the customer
-            // Case for Seller L
+            // Case for Seller H
             Seat seat = null;
 
             //System.out.println(currentTime);
 
             synchronized(lock)
             {
+
                 update();
-                //System.out.println("got in");
-                if(currentTime  >= (customer.getArrivalTime())){
+                if(currentTime  >= (customer.getArrivalTime()))
+                {
                     find_seat:
-                    for (int i = seating.length-1; i >= 0; i--) {
+                    for (int i = 0; i < seating.length; i++) {
                         for (int j = 0; j < seating[0].length; j++) {
                             if (seating[i][j].isSeatEmpty()) {
                                 // Assign seat to customer
                                 // Seat number = (Row x 10) + (Col + 1)
-                                int seatNum = (i * 10) + j + 1;
+                                int seatNum = (i*10)+j+1;
                                 seat = new Seat(seatNum);
                                 super.assignSeat(customer, seat, i, j);
                                 //update();
@@ -62,6 +62,8 @@ public class SellerL extends Seller
                 }
             }
 
+
         }
     }
+
 }

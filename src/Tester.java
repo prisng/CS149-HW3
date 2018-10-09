@@ -1,21 +1,22 @@
-package hw3;
-
 import java.util.Scanner;
 
 public class Tester
 {
-    public static void main(String[] args)
-    {
+	static int countL = 0;		// number of L customers that got seats
+	static int countM = 0;		// number of M customers that got seats
+	static int countH = 0;		// number of H customers that got seats
+	static int ticketsSold = 0;	// total number of tickets sold
+	static int turnedAway = 0;	// number of customers turned away
+	
+    public static void main(String[] args) {
     	
-    		// test comment
-
         // number of customers per seller per hour -- command line argument
         int numOfCustomers = 0;
         
         // This takes in the number of customer from the command line
         // ex. java Tester.java 5
         // make sure to change to args[0] before submission; I just manually put "5" for testing
-        numOfCustomers = Integer.parseInt("5");
+        numOfCustomers = Integer.parseInt("15");
         final Object lock = new Object();
 
         // create 2d array that represents the seating
@@ -58,23 +59,28 @@ public class Tester
                 e.printStackTrace();
             }
         }
+        
+        //*** END OUTPUT ***//
+        
+        System.out.println("\n");
+        System.out.println("Total number of tickets sold: " + Tester.ticketsSold);
+        System.out.println("Number of customers turned away: " + Tester.turnedAway);
+		System.out.println("Number of H tickets sold: " + Tester.countH);
+		System.out.println("Number of M tickets sold: " + Tester.countM);
+		System.out.println("Number of L tickets sold: " + Tester.countL);
     }
 
 
-     // Create a seating chart and label with seat numbers
-     // maxRows: max number of rows for the chart
-     // maxCols max number of columns for the chart
-     // Return: seating chart with the given size and fully labeled
-
+    /**
+     * Creates a seating arrangement with rows x cols
+	**/
     public static Seat[][] createSeating(int maxRows, int maxCols)
     {
-        //create 10x10 seating and label with seat numbers
+        // 10 x 10 matrix for concert
         Seat[][] theSeating = new Seat[maxRows][maxCols];
         int numSeat = 1;
-        for (int row = 0; row < maxRows; row++)
-        {
-            for (int column = 0; column < maxCols; column++)
-            {
+        for (int row = 0; row < maxRows; row++) {
+            for (int column = 0; column < maxCols; column++) {
                 theSeating[row][column] = new Seat(numSeat);
                 numSeat++;
             }

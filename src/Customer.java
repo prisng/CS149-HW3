@@ -1,5 +1,3 @@
-package hw3;
-
 import java.util.Random;
 
 public class Customer implements Comparable<Customer>
