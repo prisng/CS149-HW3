@@ -1,61 +1,55 @@
 import java.util.Random;
 
-public class Customer implements Comparable<Customer>
-{
-    Random random = new Random();
-    private int arrivalTime;
-    private int seatNum;
+public class Customer implements Comparable<Customer> {
+    Random random = new Random();	// random number generator for arrival time
+    private int arrivalTime;		// time that the customer arrives
     private int customerID;
-    private String ticket;
+    private int seatNum;
     private int time;
+    private String ticket;
 
     /**
-     * Getter method to access time
-     * @return int time
-     */
-    public int getTime() {
-        return time;
-    }
-
-    /**
-     * Setter method for time
-     * @param int time to set this.time
-     */
-    public void setTime(int time) {
-        this.time = time;
-    }
-
-    /**
-     * Getter method to access ticket
-     * @return String ticket
-     */
-    public String getTicket() {
-        return ticket;
-    }
-
-    /**
-     * Setter method for time
-     * @param String ticket to set this.ticket
-     */
-    public void setTicket(String ticket) {
-        this.ticket = ticket;
-    }
-
-    /**
-     * Sets customer id and generates random arrival time for testing of this program
-     * @param int customerID
+     * Constructor for Customer
      */
     public Customer(int customerID){
         arrivalTime = random.nextInt(60);
         this.customerID = customerID;
         seatNum = -1;
     }
+    
+    /**
+     * Getter for time
+     */
+    public int getTime() {
+        return time;
+    }
+
+    /**
+     * Setter for time
+     */
+    public void setTime(int time) {
+        this.time = time;
+    }
+
+    /**
+     * Getter for ticket
+     */
+    public String getTicket() {
+        return ticket;
+    }
+
+    /**
+     * Setter method ticket
+     */
+    public void setTicket(String ticket) {
+        this.ticket = ticket;
+    }
 
     /**
      * Getter method to arrival time
      * @return int arrivalTime
      */
-    public int getArrivalTime(){
+    public int getArrivalTime() {
         return this.arrivalTime;
     }
     
@@ -63,7 +57,7 @@ public class Customer implements Comparable<Customer>
      * Setter method for seat number
      * @param int seatNum to set this.seatNum
      */
-    public void setSeatNum(int seatNum){
+    public void setSeatNum(int seatNum) {
         this.seatNum = seatNum;
     }
 
@@ -81,7 +75,7 @@ public class Customer implements Comparable<Customer>
      * Getter method to access seat number
      * @return int seatNum
      */
-    public int getSeatNum(){
+    public int getSeatNum() {
         return this.seatNum;
     }
 
@@ -89,7 +83,7 @@ public class Customer implements Comparable<Customer>
      * Getter method to access customer's id number
      * @return int customerID
      */
-    public int customerID(){
+    public int customerID() {
         return this.customerID;
     }
     
@@ -97,8 +91,7 @@ public class Customer implements Comparable<Customer>
      * Compares arrival time of 2 customers
      */
     @Override
-    public int compareTo(Customer customer)
-    {
+    public int compareTo(Customer customer) {
         if(this.arrivalTime < customer.arrivalTime)
             return -1;
         else if(this.arrivalTime > customer.arrivalTime)

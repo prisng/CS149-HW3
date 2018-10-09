@@ -1,51 +1,41 @@
-public class Seat
-{
-
+public class Seat {
     private int seatNumber;
     private Customer seatTaken;
 
     /**
      * Constructor
-     * @param int num sets seat number
+     * @param int num	the seat number to be set
      */
-    public Seat(int num)
-    {
+    public Seat(int num) {
         seatNumber = num;
         seatTaken = null;
     }
 
     /**
-     * Assigns a Customer to this Seat
-     * @param Customer c - customer to assign
+     * Returns true if seat is empty, false if not
      */
-    public void assignSeat(Customer c)
-
-    {
-        seatTaken = c;
-    }
-
-    /**
-     * Checks if this Seat is taken
-     * @return boolean - true if seat empty else false 
-     */
-    public boolean isSeatEmpty()
-    {
+    public boolean isSeatEmpty() {
         return seatTaken == null;
     }
-
+    
     /**
-     * Getter method to access seat number
-     * @return int seatNumber
+     * Assigns a Customer to this Seat
      */
-    public int getSeatNumber() {
-        return seatNumber;
+    public void assignSeat(Customer c) {
+        seatTaken = c;
     }
-
+    
     /**
-     * Getter method to access Customer assigned to this seat
-     * @return seatTaken
+     * Getter for Customer assigned to this Saet
      */
     public Customer getCustomer(){
         return seatTaken;
+    }
+
+    /**
+     * Getter for seat number
+     */
+    public int getSeatNumber() {
+        return seatNumber;
     }
 }

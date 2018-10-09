@@ -11,12 +11,12 @@ public class Tester
     public static void main(String[] args) {
     	
         // number of customers per seller per hour -- command line argument
-        int numOfCustomers = 0;
+        int numCustomers = 0;
         
         // This takes in the number of customer from the command line
         // ex. java Tester.java 5
         // make sure to change to args[0] before submission; I just manually put "5" for testing
-        numOfCustomers = Integer.parseInt("15");
+        numCustomers = Integer.parseInt("15");
         final Object lock = new Object();
 
         // create 2d array that represents the seating
@@ -26,8 +26,7 @@ public class Tester
 
         //create 10 threads representing 10 sellers
         Seller[] allSellers = new Seller[10];
-        for (int numSeller = 0; numSeller < 10; numSeller++)
-        {
+        for (int numSeller = 0; numSeller < 10; numSeller++) {
             if (numSeller == 0)
                 allSellers[numSeller] = new SellerH(theSeating, "H" + (numSeller + 1), lock);
             else if (numSeller >= 1 && numSeller < 4)
@@ -38,24 +37,21 @@ public class Tester
 
 
         //add numOfCustomers for each seller for each hour, initially add numOfCustomers for each seller's queue
-        allSellers = addNewCustomers(allSellers, numOfCustomers);
+        allSellers = addNewCustomers(allSellers, numCustomers);
 
         // start() all seller threads so they may run in parallel
-        Thread []threads = new Thread[allSellers.length];
+        Thread[] threads = new Thread[allSellers.length];
 
-        for(int numSellers = 0; numSellers < allSellers.length; numSellers++)
-        {
+        for(int numSellers = 0; numSellers < allSellers.length; numSellers++) {
             threads[numSellers] = new Thread(allSellers[numSellers]);
             threads[numSellers].start();
         }
 
 
-        for(int numSellers = 0; numSellers < allSellers.length; numSellers++)
-        {
+        for(int numSellers = 0; numSellers < allSellers.length; numSellers++) {
             try {
                 threads[numSellers].join();
-            } catch (InterruptedException e)
-            {
+            } catch (InterruptedException e) {
                 e.printStackTrace();
             }
         }
@@ -88,18 +84,12 @@ public class Tester
         return theSeating;
     }
 
-
-     // Add the given number of customers for each seller's queue
-     // allSellers: array containing all the sellers
-     //  numAdd: number of customers to add to each seller
-     // return : updated array with the new customers added to each queue
-
-    public static Seller[] addNewCustomers(Seller[] allSellers, int numAdd)
-    {
-        for (int numSeller = 0; numSeller < allSellers.length; numSeller++)
-        {
-            for (int count = 0; count < numAdd; count++)
-            {
+    /**
+     * Adds new customer to the seller's queues
+     */
+    public static Seller[] addNewCustomers(Seller[] allSellers, int numAdd) {
+        for (int numSeller = 0; numSeller < allSellers.length; numSeller++) {
+            for (int count = 0; count < numAdd; count++) {
                 Customer c = new Customer(numSeller);
                 allSellers[numSeller].addCustomer(c);
             }
@@ -108,24 +98,19 @@ public class Tester
         return allSellers;
     }
 
-
-     // Print the current seating chart
-     // seating: current seating chart
-     // maxRows: max number of rows for the chart
-     // maxCols: max number of columns for the chart
-
-
-    public static void prtSeating(Seat[][] seating, int maxRows, int maxCols)
-    {
+    /**
+     * Prints the current seating arrangement
+     */
+    public static void prtSeating(Seat[][] seating, int maxRows, int maxCols) {
         System.out.println("__________________________");
-        for (int row = 0; row < maxRows; row++)
-        {
-            for (int col = 0; col < maxCols; col++)
-            {
-                if (seating[row][col].isSeatEmpty())
-                    System.out.printf("%7s ", "O");
-                else
-                    System.out.printf("%7s ", seating[row][col].getCustomer().getTicket());
+        for (int row = 0; row < maxRows; row++) {
+            for (int col = 0; col < maxCols; col++) {
+                if (seating[row][col].isSeatEmpty()) {
+                    System.out.printf("%7s ", "O");	
+                }
+                else {
+                    System.out.printf("%7s ", seating[row][col].getCustomer().getTicket());	
+                }
             }
             System.out.println();
         }
