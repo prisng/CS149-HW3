@@ -12,26 +12,26 @@ public class Seat {
      * @param int num	the seat number to be set
      */
     public Seat(int num) {
-    	seatNum = num;
+    		seatNum = num;
         seatTaken = null;
     }
 
     /**
-     * Returns true if seat is empty, false if not
+     * Returns true if Seat is empty, false if not
      */
     public boolean isSeatEmpty() {
         return seatTaken == null;
     }
     
     /**
-     * Assigns a Customer to this Seat
+     * Assigns a Customer c to this Seat
      */
     public void assignSeat(Customer c) {
         seatTaken = c;
     }
     
     /**
-     * Getter for Customer assigned to this Saet
+     * Getter for Customer assigned to this Seat
      */
     public Customer getCustomer(){
         return seatTaken;
