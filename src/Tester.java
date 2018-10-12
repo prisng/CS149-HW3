@@ -19,8 +19,7 @@ public class Tester {
         
         // This takes in the number of customer from the command line
         // ex. java Tester.java 5
-        // make sure to change to args[0] before submission; I just manually put "5" for testing
-        numCustomers = Integer.parseInt("15");
+        numCustomers = Integer.parseInt(args[0]);
         final Object lock = new Object();
 
         // 2D array to represent the seating matrix
