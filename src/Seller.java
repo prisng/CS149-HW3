@@ -19,6 +19,14 @@ public abstract class Seller implements Runnable {
 	public Seat[][] seating;
 	//private Object lock;
 
+	/** Creates a Seller (ticket-seller)
+	 * 
+	 * @param seating the 2D array representing the available and taken seats
+	 * @param serviceTime the service time
+	 * @param sellerID the Seller's ID
+	 * @param lock the lock
+	 * @param pastTime the amount of time that has passed
+	 */
 	public Seller(Seat[][] seating, int serviceTime, String sellerID, Object lock, long pastTime) {
 		customerQueue = new LinkedList<Customer>();
 		this.serviceTime = serviceTime;
@@ -29,6 +37,11 @@ public abstract class Seller implements Runnable {
 
 	}
 	
+	/**
+	 * Prints out current time and service time of the customer, customer arrival time, 
+	 * time it took the customer to be served, and the Seller's ID
+	 * @param customer the Customer who is being served
+	 */
 	protected void callTime(Customer customer) {
 		time = (int) (currentTime + serviceTime); //+ elapse_time;
 		System.out.println("Customer arrival time: " + customer.getArrivalTime() + " min");
@@ -37,6 +50,13 @@ public abstract class Seller implements Runnable {
 		customer.setTime(time);
 	}
 
+	/**
+	 * Assigns a Customer a Seat at the specified location in the 2D array
+	 * @param customer the Customer whose Seat is being assigned
+	 * @param seat the Seat being assigned to the Customer
+	 * @param i the row of the 2D array
+	 * @param j the col of the 2D array
+	 */
 	protected void assignSeat(Customer customer, Seat seat, int i, int j) {
 		if (ticketNum < 10) {
 			customer.setTicket(sellerID + "0" + ticketNum);	
@@ -74,10 +94,16 @@ public abstract class Seller implements Runnable {
 		}
 	}
 
+	/**
+	 * Adds a Customer to the queue
+	 */
 	public void addCustomer(Customer c) {
 		customerQueue.add(c);
 	}
 
+	/**
+	 * Sorts the queue of Customers 
+	 */
 	public void sortQueue() {
 		Customer[] temp = customerQueue.toArray(new Customer[customerQueue.size()]);
 		customerQueue.clear();
@@ -87,6 +113,11 @@ public abstract class Seller implements Runnable {
 		}
 	}
 
+	/**
+	 * Prints information about the Sellers, Customers, and time taken for selling tickets
+	 * @param customer the Customer sold to
+	 * @param seat the Seat sold
+	 */
 	protected void printMsg(Customer customer, Seat seat) {
 		int hour = customer.getTime() / 60;
 		int min = customer.getTime() % 60;
@@ -114,6 +145,12 @@ public abstract class Seller implements Runnable {
 		sellTicket();
 	}
 
+	/**
+	 * Prints the 2D array of Seats
+	 * @param seating the Array
+	 * @param maxRows the #rows in the venue
+	 * @param maxCols the #columns in the venue
+	 */
 	public static void printSeating(Seat[][] seating, int maxRows, int maxCols) {
 		System.out.println("--------------------------------------------------------------------------------");
 		for (int row = 0; row < maxRows; row++) {
